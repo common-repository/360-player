@@ -1,0 +1,50 @@
+{
+	"dialogs": {
+		
+			"main": {
+				"headline": "Shortcode einf&uuml;gen",
+				"text": "Hier k&ouml;nnen Sie den Player Shortcode in ihre Wordpress Seite einbinden.<br><br>Sie k&ouml;nnen einen bereits erstellen Player einbinden eindem sie ihn aus der Liste ausw&auml;hlen.<br>Wenn Sie ein Layout einbinden k&ouml;nnen Sie dies ebensfalls aus einer Listen w&auml;hlen, allerdings m&uuml;ssen sie hierzu noch die ben&ouml;tigten Pfadeinstellungen angeben.",
+				"radio_player": "Player einbinden",
+				"radio_layout": "Layout einbinden"
+			},
+			"insert_player": {
+				"error_no_players": "Es sind keine Player vorhanden",
+				"error_no_players_create_player": "Player anlegen",
+				"insert_shortcode": "Shortcode einbinden"
+			},
+			"insert_layout": {
+				"error_no_layouts": "Es sind keine Layouts vorhanden",
+				"error_no_layouts_create_layout": "Layout anlegen",
+				"insert_shortcode": "Shortcode einbinden",
+				"pathsettings": {
+					"button_edit": "Pfade einstellen"
+				}
+			},
+			"edit_player": {
+				"headline": "Player bearbeiten",
+				"button_edit_player": "Player bearbeiten",
+				"error_bad_configuration": "Achtung dieser Player ist falsch konfiguriert",
+				"error_no_data": "Achtung dieser Datensatz existiert nicht mehr"
+			},
+			"edit_layout": {
+				"headline": "Layout bearbeiten",
+				"button_edit_layout": "Layout bearbeiten",
+				"button_edit_paths": "Pfade bearbeiten",
+				"button_refresh_paths": "Pfade aktualisieren",
+				"error_bad_configuration": "Achtung dieses Layout ist falsch konfiguriert",
+				"error_no_data": "Achtung dieser Datensatz existiert nicht mehr"
+			}
+	},
+	"general": {
+		"name": "Name",
+		"description": "Beschreibung",
+		"pathsettings": {
+			"button_edit": "Pfade einstellen",
+			"basepath": "Basepath",
+			"object_name": "Object name",
+			"filelist_small": "Small filelist",
+			"filelist_large": "Large filelist",
+			"use_basepath": "Use basepath"
+		}
+	}
+}

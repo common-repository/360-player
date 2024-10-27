@@ -1,0 +1,13 @@
+img[data-thrixty-player-preview][data-thrixty-preview-success="true"],
+img[data-thrixty-layout-preview][data-thrixty-preview-success="true"] {
+  max-width: 250px;
+  max-height: 200px;
+  margin: 5px;
+  border: 1px solid lightgray;
+  border-radius: 5px; }
+
+img[data-thrixty-player-preview][data-thrixty-preview-success]:hover,
+img[data-thrixty-layout-preview][data-thrixty-preview-success]:hover {
+  cursor: pointer; }
+
+/*# sourceMappingURL=thrixty.tinymce_styles.css.map */
